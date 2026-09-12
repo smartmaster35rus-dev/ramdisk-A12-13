@@ -1,34 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="A12 A13 Ramdisk Catalog">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f0c29">
-        <animate attributeName="stop-color" values="#0f0c29;#302b63;#24243e;#0f0c29" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#302b63">
-        <animate attributeName="stop-color" values="#302b63;#24243e;#0f0c29;#302b63" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#24243e">
-        <animate attributeName="stop-color" values="#24243e;#0f0c29;#302b63;#24243e" dur="8s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
     </linearGradient>
     <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#007AFF" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#007AFF" stop-opacity="0.9"/>
-      <stop offset="55%" stop-color="#BF5AF2" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#BF5AF2" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#007AFF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#BF5AF2" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#007AFF" stop-opacity="0.15"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
   <rect width="900" height="180" rx="18" fill="url(#bg)"/>
-  <rect width="900" height="180" rx="18" fill="url(#shine)" opacity="0.35"/>
-  <text x="450" y="72" text-anchor="middle" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" filter="url(#glow)">A12 / A13 Ramdisk Catalog</text>
-  <text x="450" y="112" text-anchor="middle" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#c7c7cc">Live bootchain releases · iPhone &amp; iPad · auto-updated</text>
-  <circle cx="120" cy="90" r="6" fill="#34C759">
-    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
-  </circle>
-  <text x="136" y="95" font-family="SF Pro Text, sans-serif" font-size="14" fill="#34C759">ONLINE</text>
+  <rect width="900" height="180" rx="18" fill="url(#shine)"/>
+  <text x="450" y="72" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="42" font-weight="700" fill="#ffffff">A12 / A13 Ramdisk Catalog</text>
+  <text x="450" y="112" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" fill="#c7c7cc">Live bootchain releases · iPhone &amp; iPad · auto-updated</text>
+  <circle cx="120" cy="90" r="6" fill="#34C759"/>
+  <text x="136" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#34C759">ONLINE</text>
 </svg>

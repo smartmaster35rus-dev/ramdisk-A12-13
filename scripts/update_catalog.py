@@ -175,16 +175,26 @@ def _chip_badge(chip: str) -> str:
     return f'<img alt="{chip}" src="https://img.shields.io/badge/{chip}-{color}?style=for-the-badge&logo=apple&logoColor=white">'
 
 
+def _shields_badge(label: str, message: str, color: str, style: str = "flat-square") -> str:
+    """shields.io path badges — dashes in message must be doubled."""
+    safe_msg = message.replace("-", "--")
+    return (
+        f"https://img.shields.io/badge/{label}-{safe_msg}-{color}"
+        f"?style={style}"
+    )
+
+
 def _render_catalog(catalog: dict[str, dict[str, list[str]]], stats: dict) -> str:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    date_badge = datetime.now(timezone.utc).strftime("%Y.%m.%d")
     lines: list[str] = []
 
     lines.append(
         f'<p align="center">'
-        f'<img alt="models" src="https://img.shields.io/badge/models-{stats["models"]}-007AFF?style=for-the-badge"> '
-        f'<img alt="releases" src="https://img.shields.io/badge/release_groups-{stats["groups"]}-BF5AF2?style=for-the-badge"> '
-        f'<img alt="versions" src="https://img.shields.io/badge/ramdisk_versions-{stats["versions"]}-34C759?style=for-the-badge"> '
-        f'<img alt="updated" src="https://img.shields.io/badge/updated-{now.replace(" ", "%20")}-555555?style=flat-square">'
+        f'<img alt="models" src="{_shields_badge("models", str(stats["models"]), "007AFF", "for-the-badge")}"> '
+        f'<img alt="releases" src="{_shields_badge("release_groups", str(stats["groups"]), "BF5AF2", "for-the-badge")}"> '
+        f'<img alt="versions" src="{_shields_badge("ramdisk_versions", str(stats["versions"]), "34C759", "for-the-badge")}"> '
+        f'<img alt="updated" src="{_shields_badge("updated", date_badge, "555555")}">'
         f"</p>\n"
     )
 
