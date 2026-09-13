@@ -22,7 +22,7 @@ When new ramdisks are uploaded (including future **iOS 27** builds), the
 workflow refreshes this page automatically.
 
 <!-- catalog:start -->
-<p align="center"><img alt="models" src="https://img.shields.io/badge/models-16-007AFF?style=for-the-badge"> <img alt="releases" src="https://img.shields.io/badge/release_groups-51-BF5AF2?style=for-the-badge"> <img alt="versions" src="https://img.shields.io/badge/ramdisk_versions-124-34C759?style=for-the-badge"> <img alt="updated" src="https://img.shields.io/badge/updated-2026.09.12-555555?style=flat-square"></p>
+<p align="center"><img alt="models" src="https://img.shields.io/badge/models-16-007AFF?style=for-the-badge"> <img alt="releases" src="https://img.shields.io/badge/release_groups-51-BF5AF2?style=for-the-badge"> <img alt="versions" src="https://img.shields.io/badge/ramdisk_versions-124-34C759?style=for-the-badge"> <img alt="updated" src="https://img.shields.io/badge/updated-2026.09.13-555555?style=flat-square"></p>
 
 > **Live catalog** — auto-refreshed from published GitHub Releases. Upload a new release → this table updates within minutes.
 
@@ -226,7 +226,7 @@ workflow refreshes this page automatically.
 </details>
 
 
-<sub>Catalog generated 2026-09-12 18:24 UTC · [workflow](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/actions/workflows/update-catalog.yml)</sub>
+<sub>Catalog generated 2026-09-13 00:31 UTC · [workflow](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/actions/workflows/update-catalog.yml)</sub>
 <!-- catalog:end -->
 ---
 
