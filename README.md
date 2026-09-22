@@ -7,23 +7,23 @@
 
 <p align="center">
 
-[рџ“‹ Windows erase tool](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[📋 Windows erase tool](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **A12/A13 Ramdisk Catalog** — справочник ramdisk-образов и совместимости для **Apple A12 и A13**: модели, iOS-билды, ссылки на Platinum-инструменты.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Reference catalog of ramdisk images and compatibility for **Apple A12 & A13** devices. Companion to Ramdisk Erase Platinum tools.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -34,11 +34,11 @@ Reference catalog of ramdisk images and compatibility for **Apple A12 & A13** de
 
 ---
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - Use with [A12-13 Ramdisk Erase Platinum](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win) tools
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -47,9 +47,9 @@ Reference catalog of ramdisk images and compatibility for **Apple A12 & A13** de
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -57,6 +57,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
