@@ -22,7 +22,7 @@ When new ramdisks are uploaded (including future **iOS 27** builds), the
 workflow refreshes this page automatically.
 
 <!-- catalog:start -->
-<p align="center"><img alt="models" src="https://img.shields.io/badge/models-16-007AFF?style=for-the-badge"> <img alt="releases" src="https://img.shields.io/badge/release_groups-51-BF5AF2?style=for-the-badge"> <img alt="versions" src="https://img.shields.io/badge/ramdisk_versions-124-34C759?style=for-the-badge"> <img alt="updated" src="https://img.shields.io/badge/updated-2026.09.16-555555?style=flat-square"></p>
+<p align="center"><img alt="models" src="https://img.shields.io/badge/models-16-007AFF?style=for-the-badge"> <img alt="releases" src="https://img.shields.io/badge/release_groups-52-BF5AF2?style=for-the-badge"> <img alt="versions" src="https://img.shields.io/badge/ramdisk_versions-125-34C759?style=for-the-badge"> <img alt="updated" src="https://img.shields.io/badge/updated-2026.10.13-555555?style=flat-square"></p>
 
 > **Live catalog** — auto-refreshed from published GitHub Releases. Upload a new release → this table updates within minutes.
 
@@ -68,14 +68,14 @@ workflow refreshes this page automatically.
 </details>
 
 <details open>
-<summary><b>📱 iPhone XR</b> <code>iPhone11,8</code> <img alt="A12" src="https://img.shields.io/badge/A12-007AFF?style=for-the-badge&logo=apple&logoColor=white"> <img alt="10 versions" src="https://img.shields.io/badge/versions-10-34C759?style=flat-square"></summary>
+<summary><b>📱 iPhone XR</b> <code>iPhone11,8</code> <img alt="A12" src="https://img.shields.io/badge/A12-007AFF?style=for-the-badge&logo=apple&logoColor=white"> <img alt="11 versions" src="https://img.shields.io/badge/versions-11-34C759?style=flat-square"></summary>
 
 
 | iOS line | Available builds | Download |
 |:--:|:--|:--:|
 | **iOS 18** | <img alt="18.7.10" title="iOS 18.7.10" src="https://img.shields.io/badge/18.7.10-007AFF?style=flat-square"> <img alt="18.7.9" title="iOS 18.7.9" src="https://img.shields.io/badge/18.7.9-007AFF?style=flat-square"> <img alt="18.6.1" title="iOS 18.6.1" src="https://img.shields.io/badge/18.6.1-007AFF?style=flat-square"> <img alt="18.5" title="iOS 18.5" src="https://img.shields.io/badge/18.5-007AFF?style=flat-square"> <img alt="18.3.1" title="iOS 18.3.1" src="https://img.shields.io/badge/18.3.1-007AFF?style=flat-square"> <img alt="18.3" title="iOS 18.3" src="https://img.shields.io/badge/18.3-007AFF?style=flat-square"> <img alt="18.0" title="iOS 18.0" src="https://img.shields.io/badge/18.0-007AFF?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS18) |
+| **iOS 15** | <img alt="15.0" title="iOS 15.0" src="https://img.shields.io/badge/15.0-555555?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS15) |
 | **iOS 14** | <img alt="14.4" title="iOS 14.4" src="https://img.shields.io/badge/14.4-aeaeb2?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS14) |
-| **iOS 15** | <img alt="15.0" title="iOS 15.0" src="https://img.shields.io/badge/15.0-aeaeb2?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS15) |
 | **iOS 13** | <img alt="13.5" title="iOS 13.5" src="https://img.shields.io/badge/13.5-8e8e93?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS13) |
 | **iOS 12** | <img alt="12.1.2" title="iOS 12.1.2" src="https://img.shields.io/badge/12.1.2-6e6e73?style=flat-square"> | [⬇ Release](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/releases/tag/iPhone11.8-iOS12) |
 
@@ -227,7 +227,7 @@ workflow refreshes this page automatically.
 </details>
 
 
-<sub>Catalog generated 2026-09-16 18:27 UTC · [workflow](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/actions/workflows/update-catalog.yml)</sub>
+<sub>Catalog generated 2026-10-13 22:41 UTC · [workflow](https://github.com/smartmaster35rus-dev/ramdisk-A12-13/actions/workflows/update-catalog.yml)</sub>
 <!-- catalog:end -->
 ---
 

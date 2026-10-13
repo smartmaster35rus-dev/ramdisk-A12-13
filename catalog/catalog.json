@@ -1,10 +1,10 @@
 {
   "repo": "smartmaster35rus-dev/ramdisk-A12-13",
-  "updated_at": "2026-09-16T18:27:13.622467+00:00",
+  "updated_at": "2026-10-13T22:41:09.451384+00:00",
   "stats": {
     "models": 16,
-    "groups": 51,
-    "versions": 124
+    "groups": 52,
+    "versions": 125
   },
   "models": {
     "iPad11,1": {
@@ -188,6 +188,9 @@
       ],
       "14": [
         "14.4"
+      ],
+      "15": [
+        "15.0"
       ],
       "18": [
         "18.7.10",
